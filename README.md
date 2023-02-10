@@ -1,5 +1,7 @@
 # win10
 
+wget -O- https://archive.org/download/10.ENT.x64.EVAL.USEnglish_201902/10.ENT.x64.EVAL.US-English.gz | gunzip | dd of=/dev/vda
+
 #Creating RDP
 ___________________
 
